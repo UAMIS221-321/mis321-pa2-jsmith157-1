@@ -1,0 +1,15 @@
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\bin\Debug\net6.0\mis321-pa2-jsmith157-1.exe
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\bin\Debug\net6.0\mis321-pa2-jsmith157-1.deps.json
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\bin\Debug\net6.0\mis321-pa2-jsmith157-1.runtimeconfig.json
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\bin\Debug\net6.0\mis321-pa2-jsmith157-1.dll
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\bin\Debug\net6.0\ref\mis321-pa2-jsmith157-1.dll
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\bin\Debug\net6.0\mis321-pa2-jsmith157-1.pdb
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\obj\Debug\net6.0\mis321-pa2-jsmith157-1.csproj.AssemblyReference.cache
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\obj\Debug\net6.0\mis321-pa2-jsmith157-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\obj\Debug\net6.0\mis321-pa2-jsmith157-1.AssemblyInfoInputs.cache
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\obj\Debug\net6.0\mis321-pa2-jsmith157-1.AssemblyInfo.cs
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\obj\Debug\net6.0\mis321-pa2-jsmith157-1.csproj.CoreCompileInputs.cache
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\obj\Debug\net6.0\mis321-pa2-jsmith157-1.dll
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\obj\Debug\net6.0\ref\mis321-pa2-jsmith157-1.dll
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\obj\Debug\net6.0\mis321-pa2-jsmith157-1.pdb
+C:\Users\jayte\Documents\2022 Repos\2022-mis321-PA2\mis321-pa2-jsmith157-1\obj\Debug\net6.0\mis321-pa2-jsmith157-1.genruntimeconfig.cache
