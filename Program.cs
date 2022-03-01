@@ -114,6 +114,7 @@ namespace mis321_pa2_jsmith157_1
         {
 
             Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Welcome to the Battle Menu!");
 
             Console.WriteLine("\n\n");
@@ -218,6 +219,8 @@ namespace mis321_pa2_jsmith157_1
 
                 Console.WriteLine("{0}'s attack did {1} damage to {2}", attacker.Name, damage, defender.Name);
             }     
+
+        
         
     }
 }
