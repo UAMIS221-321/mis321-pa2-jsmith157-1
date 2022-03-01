@@ -112,8 +112,9 @@ namespace mis321_pa2_jsmith157_1
 
          static string BattleMenu()
         {
-
+            
             Console.Clear();
+            Console. ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Welcome to the Battle Menu!");
 
             Console.WriteLine("\n\n");
@@ -125,7 +126,8 @@ namespace mis321_pa2_jsmith157_1
             string userInput = Console.ReadLine();
 
 
-            while(userInput != "1" && userInput != "2" && userInput != "3" && userInput != "4")
+            while(userInput != "1" && userInput != "2" && userInput != "3" && userInput != "4" && userInput != "5")
+             
             {
                 Console.WriteLine("\n\n");
                 Console.WriteLine("Invalid input. Please try again.");
@@ -134,16 +136,20 @@ namespace mis321_pa2_jsmith157_1
                 Console.WriteLine("1. Jack Sparrow");
                 Console.WriteLine("2. Davy Jones");
                 Console.WriteLine("3. Will Turner");
-                Console.WriteLine("4. Exit");
+                Console.WriteLine("4.Help"); 
+                Console.WriteLine("5. Exit");
                 userInput = Console.ReadLine();
+
             }
-            if(userInput == "4")
+            if(userInput == "5")
             {
                 Environment.Exit(0);
             }
             
             return userInput; 
         }
+
+
         
             static string peicesofEightFlip()
             {
@@ -215,8 +221,8 @@ namespace mis321_pa2_jsmith157_1
                 }
                 int newHealth = defender.Health - damage;
                 defender.Health = newHealth;
-
-                Console.WriteLine("{0}'s attack did {1} damage to {2}", attacker.Name, damage, defender.Name);
+                
+            
             }     
         
     }
